@@ -2,6 +2,8 @@
 @import 'abstract/variables';
 @import 'base/base';
 @import 'base/utilities';
+@import 'component/alert';
+@import 'component/navbar';
 @import 'component/notfound';
 @import 'layout/layout.scss';
 @import 'pages/home';
@@ -9,3 +11,7 @@
 @import 'pages/contact';
 @import 'pages/listings';
 @import 'pages/listingdetails';
+@import 'pages/listingdetails';
+
+
+

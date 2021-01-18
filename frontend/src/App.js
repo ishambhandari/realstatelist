@@ -30,7 +30,7 @@ function App() {
               <Route exact path = '/listings' component = {Listings} />
               <Route exact path = '/listings/:id' component = {ListingDetail} />
               <Route exact path = '/signin' component = {SignIn} />
-              <Route exact path = '/signout' component = {SignUp}/>
+              <Route exact path = '/signup' component = {SignUp}/>
               <Route component={NotFound}/>
             </Switch>
           </Layout>

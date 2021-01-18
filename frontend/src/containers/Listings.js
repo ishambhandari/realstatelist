@@ -3,7 +3,7 @@ import React from 'react'
 function Listings(){
     return(
         <div>
-            Contact
+            Listing
         </div>
     )
 }
